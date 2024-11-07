@@ -20,10 +20,8 @@ This repository contains the source code for a **static React-based gym website*
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/gym-website.git
 
 2. Navigate to the project directory:
-   cd gym-website
 
 3. Install the dependencies:
    npm install react-bootstrap bootstrap
